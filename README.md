@@ -143,9 +143,9 @@ de encontro entre direção visual, engenharia e inteligência artificial.
     <td width="220" align="center">
       <a href="https://github.com/SoftMissT/Lumenn-Frame">
         <img
-          src="assets/lumenn-logo.webp"
+          src="assets/lumenn_frame.webp"
           width="200"
-          alt="Arte da linha de ferramentas Lumenn"
+          alt="Arte do módulo Lumenn Frame"
         />
       </a>
     </td>
@@ -160,7 +160,41 @@ de encontro entre direção visual, engenharia e inteligência artificial.
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/SoftMissT/Lumenn-phone-hub">
+        <img
+          src="assets/lumenn-phone-hub-banner.webp"
+          width="200"
+          alt="Banner do módulo Lumenn Phone Hub"
+        />
+      </a>
+    </td>
+    <td>
+      <h3>Lumenn Phone Hub</h3>
+      <p>
+        Celular diegético para Foundry VTT (v13–v14), independente de sistema:
+        mensagens, redes sociais, banco e notícias para suas mesas.
+      </p>
+      <a href="https://github.com/SoftMissT/Lumenn-phone-hub">
+        Explorar o projeto →
+      </a>
+    </td>
+  </tr>
 </table>
+
+## Outros repositórios
+
+<div align="center">
+
+[![Night Assassins System](https://img.shields.io/badge/Night_Assassins_System-0a0612?style=for-the-badge&logo=foundryvirtualtabletop&logoColor=FF6600&labelColor=0a0612)](https://github.com/SoftMissT/night-assassins-system)
+[![Night Assassins CSB Automation](https://img.shields.io/badge/Night_Assassins_CSB_Automation-0a0612?style=for-the-badge&logo=foundryvirtualtabletop&logoColor=FF6600&labelColor=0a0612)](https://github.com/SoftMissT/night-assassins-csb-automation)
+[![Lumenn Notify](https://img.shields.io/badge/Lumenn_Notify-0a0612?style=for-the-badge&logo=foundryvirtualtabletop&logoColor=FF6600&labelColor=0a0612)](https://github.com/SoftMissT/lumenn-notify)
+[![Lumenn Roll Relay](https://img.shields.io/badge/Lumenn_Roll_Relay-0a0612?style=for-the-badge&logo=foundryvirtualtabletop&logoColor=FF6600&labelColor=0a0612)](https://github.com/SoftMissT/lumenn-roll-relay)
+[![Lumenn Hub Site](https://img.shields.io/badge/Lumenn_Hub_Site-0a0612?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0612)](https://github.com/SoftMissT/Lumenn-hub-site)
+[![Projeto ONG](https://img.shields.io/badge/Projeto_ONG-0a0612?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0612)](https://github.com/SoftMissT/projeto-ong)
+
+</div>
 
 ## Sinais da jornada
 
