@@ -4,7 +4,7 @@
   <img
     src="assets/banner-softmisst.webp"
     width="100%"
-    alt="SoftMissT — Visual Effects, desenvolvimento, Ciência da Computação e IA"
+    alt="SoftMissT Visual Effects, desenvolvimento, Ciência da Computação e IA"
   />
 </a>
 
@@ -34,7 +34,7 @@ de encontro entre direção visual, engenharia e inteligência artificial.
 - ⚔️ Crio módulos, macros e diagnósticos para **Foundry VTT**.
 - 🗺️ Desenvolvo sistemas de RPG completos: mecânicas, lore e livros
   diagramados.
-- 📍 Arujá, São Paulo — Brasil.
+- 📍 Arujá, São Paulo Brasil.
 
 > Código também é composição: intenção, ritmo e impacto.
 
